@@ -1,3 +1,9 @@
+# NOTICE
+
+This repository is no longer maintained as it has been transferred to the RHEL Lightspeed organization:
+
+- https://github.com/rhel-lightspeed/linux-mcp-server
+
 # Linux MCP Server
 
 A Model Context Protocol (MCP) server for read-only Linux system administration, diagnostics, and troubleshooting on RHEL-based systems.
